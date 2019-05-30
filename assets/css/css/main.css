@@ -1,0 +1,55 @@
+@import url(./var.css);
+
+
+#header-bg {
+    background-image: url(../images/yannes-kiefer-1394328-unsplash.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
+
+#header {
+    width: 100vw;
+}
+
+#header h1 {
+    font-family: var(--t-primary);
+}
+
+.container#header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 400px;
+    text-align: center;
+}
+
+.container#header  nav#nav ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+ .container#header nav#nav ul li {
+    display: inline;
+    list-style: none;
+}
+
+.container#header nav#nav ul li a {
+    color: var(--c-primary);
+}
+
+img.bestemming {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+a.btn {
+    background-color: var(--c-primary);
+}
+
+h1{
+    color: var(--c-primary);
+}
+.btn{
+    color: var(--c-secondary)
+}

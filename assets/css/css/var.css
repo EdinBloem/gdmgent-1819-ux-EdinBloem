@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen:700&display=swap');
+
+:root {
+    /**
+        * Colour palette
+        */
+    --c-primary: #D15793;
+    --c-secondary: white;
+    
+    /**
+        * Layout
+        */
+    --l-gutter: 1rem;
+    
+    /**
+        * Typography
+        */
+    --t-primary:  'Oxygen', sans-serif;
+    --t-secondary: 'Oxygen', sans-serif;
+    --t-tertiary: monospace;
+    
+    }

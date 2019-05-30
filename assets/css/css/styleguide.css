@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen:700&display=swap');
+
+
+.Roze{
+    color: #d1579e;
+}
+
+.zwart{
+    color: black;
+}
+.oxygen{
+    font-family: 'Oxygen', sans-serif;
+}
+.monospace{
+    font-family: monospace;
+}
+.arial{
+    font-family: Arial, Helvetica, sans-serif
+}
+.btn{
+    
+    background-color: #d1579e;
+    list-style: none;
+    text-decoration: none;
+    
+}
+.sg-subtitle{
+    text-decoration: underline;
+}
